@@ -56,4 +56,6 @@
 
 ## projects
 - start from example template, add a google map with marker
-- start from example template, make the image change when a button is clicked on -> build basic image slider?
+- start from example template, make an image change when a button is clicked on -> build basic image slider
+- start from example template, add video as background image
+- start from example template, add basic line chart -> customize
