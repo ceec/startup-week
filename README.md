@@ -12,7 +12,7 @@
 
 - you might not have to code for your job but you may interact with someone who does - need to be able to communicate!
 
-## HTML, CSS, JS (would this be too overhwelming)
+## HTML, CSS, JS 
 - view source on a website
 - developer tools
 - you can see how every site on the internet is made!
@@ -22,15 +22,17 @@
 - rapid prototyping enivornment for HTML, CSS and JS
 - also cool things
 - can create a free account or just create an anonomys pen
-
 - talk about forking (github forking, sharing code)
 
 ## play with codepen!
 
 - make some text, h1, add an image?
 - simple CSS
+- JS 
+- make a variable
+- if statement
+- create a function
 - create a button and have a click event?
-- something easy in JS 
 
 ## how is this all even working
 - web browser is interpreting the code written
@@ -41,14 +43,17 @@
 
 ## fork a pen
  
-- create some example for them with stuff set up
+- have example base with HTML structure and CSS -> add functionality
 - they fork it
 - have them change things -> break it
 - have them change things -> see the changes
 
 ## errors
 
-- you will break code and its part of the job!
-- dont be afraid of errors, the computer is just doing exactly what you told it to do, go see what you actually told it to do!
+- you will break code
+- dont be afraid of errors, the code is just doing exactly what you told it to do, go see what you actually told it to do!
 
 
+## projects
+- start from example template, add a google map with marker
+- start from example template, make the image change when a button is clicked on -> build basic image slider?
